@@ -202,4 +202,3 @@ MedPredict demonstrates how Machine Learning can be integrated into real-world a
 
 ---
 
-⭐ If you like this project, give it a star on GitHub!
